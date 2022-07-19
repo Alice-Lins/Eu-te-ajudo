@@ -11,10 +11,10 @@ db.connect();
 
 app.use(express.json());
 
-// const noteRoutes = require('./routes/noteRoutes');
+ const teacherRoutes = require('./Routes/teacherRoutes');
 // const tagRoutes = require('./routes/tagRoutes');
 
-// //app.use("/notes", noteRoutes);
+app.use("/teacher", teacherRoutes);
 // app.use("/tags", tagRoutes);
 
 module.exports = app;

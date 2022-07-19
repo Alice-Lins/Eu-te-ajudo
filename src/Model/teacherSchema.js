@@ -25,7 +25,7 @@ const teacherSchema = new mongoose.Schema({
         required: true
     },
     specialty:{
-        type: array,
+        type: String,
         required:true
     },
     createdAt: {

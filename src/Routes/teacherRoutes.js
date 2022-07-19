@@ -1,17 +1,14 @@
 const express = require("express");
 const router = express.Router();
 
-const controller = require("../Controller/teacherController");
+const Controller = require("../Controller/teacherController");
 
-router.get("/all", controller.getAll);
+router.get("/all", Controller.getAll);
 
-// router.get("/with-tags", controller.getNotesWithTags);
-// router.get("/with-study-tags", controller.getNotesWithStudyTag);
+router.post("/create", Controller.createTeacher);
 
-router.post("/create", controller.createTeacher);
+ router.put("/update/:id", Controller.updateTeacher);
 
-// router.put("/update/:id", controller.updateNote);
-
-// router.delete("/delete/:id", controller.deleteNote);
+ router.delete("/delete/:id", Controller.deleteTeacher);
 
 module.exports = router;
