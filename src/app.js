@@ -9,7 +9,7 @@ require('dotenv-safe').config();
 const db = require('./database/mongoConfig');
 db.connect();
 
-//app.use(express.json());
+app.use(express.json());
 
 // const noteRoutes = require('./routes/noteRoutes');
 // const tagRoutes = require('./routes/tagRoutes');
