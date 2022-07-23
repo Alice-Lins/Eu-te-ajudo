@@ -15,7 +15,7 @@
 
 ## 🔗 **Link**
 [Apresentação](https://www.canva.com/design/DAFG4uoRboM/Sl6y-KGdRXTzxzfEzqA9ew/edit?utm_content=DAFG4uoRboM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-## [Heroku](https://eu-te-ajudo.herokuapp.com/)
+[Heroku](https://eu-te-ajudo.herokuapp.com/)
 
 ## 🗂️ **Arquitetura MVC**
 ## ⚙️ **Funcionalidades/Objetivos**
