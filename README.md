@@ -9,9 +9,21 @@
 
 ## ✍🏽 **Descrição**
 
+## 📄 **Sumário**
+
 
 
 ## 🔗 **Link**
 [Apresentação](https://www.canva.com/design/DAFG4uoRboM/Sl6y-KGdRXTzxzfEzqA9ew/edit?utm_content=DAFG4uoRboM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## 🗂️ **Arquitetura MVC**
+## ⚙️ **Funcionalidades/Objetivos**
+## 📚 **Aprendizados**
+
+## 👩‍🎓 **Autora**
+
+<div align="rigth">
+    <img src="https://user-images.githubusercontent.com/100800836/180608874-c54f54c9-6d44-4b48-89c0-6fa83871dca7.jpeg" width="10%")
+</div>
+
+## ❤️ **Agradecimentos**
