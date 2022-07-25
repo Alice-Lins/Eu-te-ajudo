@@ -14,7 +14,7 @@
 
 
 ## 🔗 **Link**
-[Apresentação](https://www.canva.com/design/DAFG4uoRboM/Sl6y-KGdRXTzxzfEzqA9ew/edit?utm_content=DAFG4uoRboM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Apresentação](https://www.canva.com/design/DAFG4uoRboM/Gqx9XbZL3MXOoma8H6zLGQ/view?utm_content=DAFG4uoRboM&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent)
 [Heroku](https://eu-te-ajudo.herokuapp.com/)
 
 ## 🗂️ **Arquitetura MVC**
