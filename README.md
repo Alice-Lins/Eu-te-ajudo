@@ -39,14 +39,6 @@ Para a construção do projeto, as seguintes tecnologias foram utilizadas:
 - [Mongoose](https://mongoosejs.com/)
 - [cors](https://www.npmjs.com/package/cors)
 
-<br>
-
-  
-<br>
-
-## 📄 **Sumário**
-
-
 
 ## 🔗 **Link**
 [Apresentação](https://www.canva.com/design/DAFG4uoRboM/Gqx9XbZL3MXOoma8H6zLGQ/view?utm_content=DAFG4uoRboM&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent)
@@ -54,26 +46,20 @@ Para a construção do projeto, as seguintes tecnologias foram utilizadas:
 [Heroku](https://eu-te-ajudo.herokuapp.com/)
 
 ## 🗂️ **Arquitetura MVC**
-<br>
-```
- 📁 cestas-solidarias
+
+🗂️ - src
+   |   
+   |   | 🗂️ Controller
+   |      | - teacherController.js
    |
-   |-  📁 src
-   |    |
-   |    |- 📁 Controller
-   |         |- 📑 teacherController.js
-   |     
+   | 🗂️ - dataBase
+   |         | - mongoConfig.js
    |
-   |    |- 📁 database
-   |         |- 📑 mongoConfig.js
+   |   🗂️ - Model
+   |          | - teacherSchema.js  
    |
-   |    |- 📁 Models
-   |         |- 📑 teacherSchema.js
-   |         
-   |         
-   |
-   |    |- 📁 Routes
-   |         |- 📑 teacherRoutes.js 
+   |   🗂️ - Routes
+   |          | - teacher Routes.js       
    |         
    |  |- 📑 app.js
    |  
@@ -86,32 +72,30 @@ Para a construção do projeto, as seguintes tecnologias foram utilizadas:
    |- 📑 README.md
    |- 📑 server.js
 
-<br>
+
    ## 🔃 Rotas
 
 * local: http://localhost:8070
 
-* Heroku: 
+* Heroku
 
-    * Utilize o [Postman](https://www.postman.com/), para chamar e testar os endpoints da API localmente ou via Heroku
+* Utilize o [Postman](https://www.postman.com/), para chamar e testar os endpoints da API localmente ou via Heroku
 
-```
-<br>
 
-<br>
+## 🔃 Manipulação das Rotas
 
-## 🔃 Manipulação das Rotas:
+| Método HTTP  |      Endpoint               | Descrição.
 
-| Método HTTP  | Endpoint               | Descrição                            
-| ------------ | --------------------------------------------------------- 
-| GET          | `/teacher/all/`        | Retorna todas professoras           
-| POST         | `/teacher/create` -    | Cria/cadastra um nova professora       
-| PUT          | `/teacher/update/:id`- | Atualiza algum  os dados    
-| DELETE       | `/teacher/delete/:id`  | Deleta um usuário específico         
+| GET          |    /teacher/all/       | Retorna todas professoras.
 
-<br>
+| POST         |   /teacher/create     | Cria/cadastra um nova professora
 
-## ✅ Dados da Collection:
+| PUT          |  /teacher/update/:id | Atualiza algum  os dados  
+
+| DELETE       | /teacher/delete/:id | Deleta um usuário específico
+
+
+## ✅ Dados da Collection
 
 - id: gerado automaticamente 
 - Professora: string e true
@@ -122,11 +106,9 @@ Para a construção do projeto, as seguintes tecnologias foram utilizadas:
 - especilidade: string e true
 - criadoEm: data gerada automaticamente e obrigatório
 
-<br>
 
-<br>
 
-## ✅ API deve retornar seguinte JSON:
+## ✅ API deve retornar seguinte JSON
 
 {
     "message": "Professora cadastrada com sucesso",
@@ -146,14 +128,14 @@ Para a construção do projeto, as seguintes tecnologias foram utilizadas:
 
  ## 🚧 Melhorias para o futuro (Em construção)
 
-<br>
-
 * Atualizar os códigos inserindo autorização , autenticaçao e testes.
 * Apresentar o projeto em reuniões educacionais para ter professores parceiros.
 * Implementar o front end para tornar o projeto:"Eu te ajudo", uma realidade, para que os professores e familiares tenham interação com a tela.
 <br>
 
+
 ## ⚙️ **Funcionalidades/Objetivos**
+
 - Listar todas as professoras cadastradas no sistema;
 - Cadastrar novas professoras;
 - Atualizar os dados pessoais, caso haja  mudança de wathsapp ou localidade.
@@ -173,3 +155,10 @@ O projeto final consiste em uma API fundamentada no CRUD, que são:  CREATE (CRI
 [Linkedin](https://www.linkedin.com/in/alice-lins-araujo/)
 
 ## ❤️ **Agradecimentos**
+
+<p align="justify"> Eu nem tenho palavras para agradecer essa oportunidade de aprender a programar e de bônus conhecer pessoas incriveis que vou levar para sempre em meu coração❤️
+Dentre muitas gostaria de citar aquele que fez chamadas de video e me estendeu a mão por diversos momentos, sempre atenciosa e com palavras positivas [Hannah Freitas](https://www.linkedin.com/in/hannahcfreitas/) a fofissima da [Bea Ramerindo](https://www.linkedin.com/in/beatriz-ramerindo/)
+
+<p align="justify"> A [Lilit Bandeira](https://www.linkedin.com/in/lilitbandeira/) por ter feito todas chorar logo no primeiro dia de aula, a perfeita [Analu](https://www.instagram.com/analu.io/) por seu auto astral a [linda Paula Allemand](https://www.linkedin.com/in/paulaallemand/) por sua sensibilidade e a nossa [MARAVILHOSA Facilitadoras - Jessica ](https://www.linkedin.com/in/jessicarguerra/) por toda paciência.
+
+<p align="justify"> Sou muito grata a Deus por ter conhecido todas as meninas da on15 que me ajudaram de alguma forma a chegar ate aqui e não desistir, voces são todas maravilhosas.❤️❤️
