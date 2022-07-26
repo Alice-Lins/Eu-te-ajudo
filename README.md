@@ -45,24 +45,31 @@ Para a construção do projeto, as seguintes tecnologias foram utilizadas:
 
 [Heroku](https://eu-te-ajudo.herokuapp.com/)
 
+<br>
+
 ## 🗂️ **Arquitetura MVC**
 
-🗂️ - src
-   |   
-   |   | 🗂️ Controller
-   |      | - teacherController.js
+```
+ 📁 EU TE AJUDO
    |
-   | 🗂️ - dataBase
-   |         | - mongoConfig.js
+   |-  📁 src
+   |    |
+   |    |- 📁 controllers
+   |         |- 📑 teacherController.js
    |
-   |   🗂️ - Model
-   |          | - teacherSchema.js  
+   |    |- 📁 database
+   |         |- 📑 Config.js
    |
-   |   🗂️ - Routes
-   |          | - teacher Routes.js       
-   |         
-   |  |- 📑 app.js
    |  
+   |    |- 📁 model
+   |         |- 📑 teacherSchema.js
+   |
+   |    |- 📁 routes
+   |         |- 📑 teacherRouter.js 
+   |       
+  
+   |    |- 📑 app.js
+
    |- 📑 .env
    |- 📑 .env.example
    |- 📑 .gitignore
@@ -72,14 +79,46 @@ Para a construção do projeto, as seguintes tecnologias foram utilizadas:
    |- 📑 README.md
    |- 📑 server.js
 
+```
+<br>
 
-   ## 🔃 Rotas
+
+<br>
+
+## 💜Para rodar o projeto localmente
+
+Faça instalação desta API, siga o passo a passo conforme abaixo:
+
+
+- No terminal Git Bash, faça o clone da API Reprograma_Eu-te-ajudo:
+
+      git clone https://github.com/Alice-Lins/Reprograma_Eu-te-ajudo.git
+
+Siga os passos e inclua as informações abaixo:
+
+| Passo     | Comando/informação       |
+| --------- | ----------- |
+| Faça o fork  | `botão de forkar` |
+| Faça o clone  | `git clone` |
+| Instale as dependências   | `npm i` |
+| Crie seu .env e inclua as variáveis e os valores     | `MONGODB_URL` |
+| utilize o script de dev    | `npm dev` |
+
+ MONGODB_URL = URL do `MongoDb Atlas` Banco de dados orientado a documentos e interface na nuvem.
+
+
+<br>
+
+
+  ## 🔃 Rotas
 
 * local: http://localhost:8070
 
 * Heroku
 
 * Utilize o [Postman](https://www.postman.com/), para chamar e testar os endpoints da API localmente ou via Heroku
+
+
 
 
 ## 🔃 Manipulação das Rotas
@@ -95,6 +134,8 @@ Para a construção do projeto, as seguintes tecnologias foram utilizadas:
 | DELETE       | /teacher/delete/:id | Deleta um usuário específico
 
 
+
+
 ## ✅ Dados da Collection
 
 - id: gerado automaticamente 
@@ -108,8 +149,12 @@ Para a construção do projeto, as seguintes tecnologias foram utilizadas:
 
 
 
-## ✅ API deve retornar seguinte JSON
 
+
+
+
+## ✅ API deve retornar seguinte JSON
+```
 {
     "message": "Professora cadastrada com sucesso",
     "savedTeacher": {
@@ -123,9 +168,10 @@ Para a construção do projeto, as seguintes tecnologias foram utilizadas:
         "_id": "62e038abe5bd0104dadd7eef",
         "__v": 0
     }
+    ```
 
 
-
+    
  ## 🚧 Melhorias para o futuro (Em construção)
 
 * Atualizar os códigos inserindo autorização , autenticaçao e testes.
@@ -134,16 +180,22 @@ Para a construção do projeto, as seguintes tecnologias foram utilizadas:
 <br>
 
 
+
+<br>
 ## ⚙️ **Funcionalidades/Objetivos**
 
 - Listar todas as professoras cadastradas no sistema;
 - Cadastrar novas professoras;
 - Atualizar os dados pessoais, caso haja  mudança de wathsapp ou localidade.
 - Deletar professora que não consiga continuar com o trabalho voluntario.
+<br>
+
 
 ## 📚 **Aprendizados**
 
 O projeto final consiste em uma API fundamentada no CRUD, que são:  CREATE (CRIAR), READ(LER-CONSULTA), UPDATE(ATUALIZAR) e DELETE(DELETAR).
+
+
 
 ## 👩‍🎓 **Autora**
 <div align="rigth">
@@ -154,6 +206,8 @@ O projeto final consiste em uma API fundamentada no CRUD, que são:  CREATE (CRI
 
 [Linkedin](https://www.linkedin.com/in/alice-lins-araujo/)
 
+
+
 ## ❤️ **Agradecimentos**
 
 <p align="justify"> Eu nem tenho palavras para agradecer essa oportunidade de aprender a programar e de bônus conhecer pessoas incriveis que vou levar para sempre em meu coração❤️
@@ -161,4 +215,4 @@ Dentre muitas gostaria de citar aquele que fez chamadas de video e me estendeu a
 
 <p align="justify"> A [Lilit Bandeira](https://www.linkedin.com/in/lilitbandeira/) por ter feito todas chorar logo no primeiro dia de aula, a perfeita [Analu](https://www.instagram.com/analu.io/) por seu auto astral a [linda Paula Allemand](https://www.linkedin.com/in/paulaallemand/) por sua sensibilidade e a nossa [MARAVILHOSA Facilitadoras - Jessica ](https://www.linkedin.com/in/jessicarguerra/) por toda paciência.
 
-<p align="justify"> Sou muito grata a Deus por ter conhecido todas as meninas da on15 que me ajudaram de alguma forma a chegar ate aqui e não desistir, voces são todas maravilhosas.❤️❤️
+<p align="justify"> Sou muito grata a Deus por ter conhecido todas as meninas da on15 que me ajudaram de alguma forma a chegar ate aqui e não desistir, voces são todas maravilhosas.❤️❤️p>
