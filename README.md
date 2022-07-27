@@ -8,12 +8,13 @@
 API desenvolvida como Projeto Final e conclusão do curso de backend {Reprograma} com o auxílio da professora maravilhosa, Hannah Freitas.
 
 <p align ="justify">De acordo com dados do IBGE um a cada quatro alunos que inicia o ensino fundamental no Brasil abandona a escola antes de completar a última série, colocando o país como terceiro em maior taxa de abandono escolar. Um dos motivos é a falta de motivação e de acreditar que consegue.
- <p align ="justify">Este projeto foi pensado e desenvolvido  a partir da minha vivência profissional como professora alfabetizadora, a educação é o pilar para que um pais seja bem sucedido, e nos como professores temos juntos com os pais a sagrada missão de estender a mão a esses jovens e  criançãs e dizer: "Eu te ajudo".
+ <p align ="justify">Este projeto foi pensado e desenvolvido  a partir da minha vivência profissional como professora alfabetizadora, a educação é o pilar para que um pais seja bem sucedido, e nos como professores temos juntos com os pais a sagrada missão de estender a mão a esses jovens e  criançãs e dizer: "Eu te ajudo",acredito que um professor deve ser um mediador, facilitador e articulador do conhecimento e não apenas aquele que detém a informação. 
+
 <br>
 
 ## ✍🏽 **Descrição**
 <br>
-<p align ="justify"> O projeto é uma API REST que permite professoras de diversas disciplinas ou especialidades a estarem a disposição de forma voluntaria e gratuita, ajudando jovens e crianças em suas dificuldades escolares, essa aplicação permitirá que familiares encontre uma professora mais proxima de de sua residência 
+<p align ="justify"> O projeto é uma API REST que permite professoras de diversas disciplinas ou especialidades a estarem a disposição de forma voluntaria e gratuita, ajudando jovens e crianças em suas dificuldades escolares, essa aplicação permitirá que familiares encontre uma professora mais próxima de sua residência 
 <p align="justify">A interface é um CRUD completo integrado com o banco de dados Mongodb, onde é possível listar as professoras, cadastrar novas, atualizar os dados e deletar o cadastro.
 
 ## 🛠️ Tecnologias utilizadas nesse projeto
@@ -83,7 +84,7 @@ Para a construção do projeto, as seguintes tecnologias foram utilizadas:
 <br>
 
 
-<br>
+
 
 ## 💜Para rodar o projeto localmente
 
@@ -154,6 +155,7 @@ Siga os passos e inclua as informações abaixo:
 
 
 ## ✅ API deve retornar seguinte JSON
+<br>
 ```
 {
     "message": "Professora cadastrada com sucesso",
@@ -171,7 +173,7 @@ Siga os passos e inclua as informações abaixo:
     ```
 
 
-    
+  <br>  
  ## 🚧 Melhorias para o futuro (Em construção)
 
 * Atualizar os códigos inserindo autorização , autenticaçao e testes.
@@ -192,27 +194,33 @@ Siga os passos e inclua as informações abaixo:
 
 
 ## 📚 **Aprendizados**
-
+<br>
 O projeto final consiste em uma API fundamentada no CRUD, que são:  CREATE (CRIAR), READ(LER-CONSULTA), UPDATE(ATUALIZAR) e DELETE(DELETAR).
 
-
+<br>
 
 ## 👩‍🎓 **Autora**
+<br>
 <div align="rigth">
     <img src="https://user-images.githubusercontent.com/100800836/180608874-c54f54c9-6d44-4b48-89c0-6fa83871dca7.jpeg" width="10%")
 </div>
-
+<b>
 ### Alice da Silva Lins
 
 [Linkedin](https://www.linkedin.com/in/alice-lins-araujo/)
-
+<br>
 
 
 ## ❤️ **Agradecimentos**
 
-<p align="justify"> Eu nem tenho palavras para agradecer essa oportunidade de aprender a programar e de bônus conhecer pessoas incriveis que vou levar para sempre em meu coração❤️
-Dentre muitas gostaria de citar aquele que fez chamadas de video e me estendeu a mão por diversos momentos, sempre atenciosa e com palavras positivas [Hannah Freitas](https://www.linkedin.com/in/hannahcfreitas/) a fofissima da [Bea Ramerindo](https://www.linkedin.com/in/beatriz-ramerindo/)
+<p align="justify"> Eu nem tenho palavras para agradecer essa oportunidade de aprender a programar e de bônus 
 
-<p align="justify"> A [Lilit Bandeira](https://www.linkedin.com/in/lilitbandeira/) por ter feito todas chorar logo no primeiro dia de aula, a perfeita [Analu](https://www.instagram.com/analu.io/) por seu auto astral a [linda Paula Allemand](https://www.linkedin.com/in/paulaallemand/) por sua sensibilidade e a nossa [MARAVILHOSA Facilitadoras - Jessica ](https://www.linkedin.com/in/jessicarguerra/) por toda paciência.
+conhecer pessoas incriveis que vou levar para sempre em meu coração❤️
 
-<p align="justify"> Sou muito grata a Deus por ter conhecido todas as meninas da on15 que me ajudaram de alguma forma a chegar ate aqui e não desistir, voces são todas maravilhosas.❤️❤️p>
+Dentre muitas gostaria de citar aquele que fez chamadas de video e me estendeu a mão por diversos momentos,
+
+sempre atenciosa e com palavras positivas [Hannah Freitas](https://www.linkedin.com/in/hannahcfreitas/) a 
+
+fofissima da [Bea Ramerindo](https://www.linkedin.com/in/beatriz-ramerindo/).A [Lilit](https://www.linkedin.com/in/lilitbandeira/) por ter feito todas chorar. logo no primeiro dia de aula, a perfeita [Analu](https://www.instagram.com/analu.io/) por seu auto astral a [linda Paula Allemand](https://www.linkedin.com/in/paulaallemand/) por sua sensibilidade e a nossa [MARAVILHOSA Facilitadoras - [Jessica](https://www.linkedin.com/in/jessicarguerra/) por toda paciência.
+
+<p align="justify"> Sou muito grata a Deus por ter conhecido todas as meninas da on15 que me ajudaram de alguma forma a chegar ate aqui e não desistir, voces são todas maravilhosas sem exceção, sâo muito especiais.❤️
