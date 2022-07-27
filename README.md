@@ -195,7 +195,8 @@ Siga os passos e inclua as informações abaixo:
 
 ## 📚 **Aprendizados**
 <br>
-O projeto final consiste em uma API fundamentada no CRUD, que são:  CREATE (CRIAR), READ(LER-CONSULTA), UPDATE(ATUALIZAR) e DELETE(DELETAR).
+
+O projeto final consiste em uma API fundamentada no CRUD, que são: CREATE (CRIAR), READ(LER-CONSULTA), UPDATE(ATUALIZAR) e DELETE(DELETAR).
 
 <br>
 
@@ -205,6 +206,7 @@ O projeto final consiste em uma API fundamentada no CRUD, que são:  CREATE (CRI
     <img src="https://user-images.githubusercontent.com/100800836/180608874-c54f54c9-6d44-4b48-89c0-6fa83871dca7.jpeg" width="10%")
 </div>
 <b>
+
 ### Alice da Silva Lins
 
 [Linkedin](https://www.linkedin.com/in/alice-lins-araujo/)
@@ -213,14 +215,8 @@ O projeto final consiste em uma API fundamentada no CRUD, que são:  CREATE (CRI
 
 ## ❤️ **Agradecimentos**
 
-<p align="justify"> Eu nem tenho palavras para agradecer essa oportunidade de aprender a programar e de bônus 
+<p align="justify"> Eu nem tenho palavras para agradecer essa oportunidade de aprender a programar e de bônus conhecer pessoas incriveis que vou levar para sempre em meu coração❤️ Dentre muitas gostaria de citar aquele que fez chamadas de video e me estendeu a mão por diversos momentos, sempre atenciosa e com palavras positivas
 
-conhecer pessoas incriveis que vou levar para sempre em meu coração❤️
-
-Dentre muitas gostaria de citar aquele que fez chamadas de video e me estendeu a mão por diversos momentos,
-
-sempre atenciosa e com palavras positivas [Hannah Freitas](https://www.linkedin.com/in/hannahcfreitas/) a 
-
-fofissima da [Bea Ramerindo](https://www.linkedin.com/in/beatriz-ramerindo/).A [Lilit](https://www.linkedin.com/in/lilitbandeira/) por ter feito todas chorar. logo no primeiro dia de aula, a perfeita [Analu](https://www.instagram.com/analu.io/) por seu auto astral a [linda Paula Allemand](https://www.linkedin.com/in/paulaallemand/) por sua sensibilidade e a nossa [MARAVILHOSA Facilitadoras - [Jessica](https://www.linkedin.com/in/jessicarguerra/) por toda paciência.
+ [Hannah Freitas](https://www.linkedin.com/in/hannahcfreitas/) a fofissima da [Bea Ramerindo](https://www.linkedin.com/in/beatriz-ramerindo/).A [Lilit](https://www.linkedin.com/in/lilitbandeira/) por ter feito todas chorar. logo no primeiro dia de aula, a perfeita [Analu](https://www.instagram.com/analu.io/) por seu auto astral a [linda Paula Allemand](https://www.linkedin.com/in/paulaallemand/) por sua sensibilidade e a nossa [MARAVILHOSA Facilitadoras - [Jessica](https://www.linkedin.com/in/jessicarguerra/) por toda paciência.
 
 <p align="justify"> Sou muito grata a Deus por ter conhecido todas as meninas da on15 que me ajudaram de alguma forma a chegar ate aqui e não desistir, voces são todas maravilhosas sem exceção, sâo muito especiais.❤️
