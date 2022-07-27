@@ -59,7 +59,7 @@ Para a construção do projeto, as seguintes tecnologias foram utilizadas:
    |         |- 📑 teacherController.js
    |
    |    |- 📁 database
-   |         |- 📑 Config.js
+   |         |- 📑 mongoConfig.js
    |
    |  
    |    |- 📁 model
