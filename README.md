@@ -12,10 +12,16 @@ API desenvolvida como Projeto Final e conclusão do curso de backend {Reprograma
 
 <br>
 
+
 ## ✍🏽 **Descrição**
-<br>
+
 <p align ="justify"> O projeto é uma API REST que permite professoras de diversas disciplinas ou especialidades a estarem a disposição de forma voluntaria e gratuita, ajudando jovens e crianças em suas dificuldades escolares, essa aplicação permitirá que familiares encontre uma professora mais próxima de sua residência 
 <p align="justify">A interface é um CRUD completo integrado com o banco de dados Mongodb, onde é possível listar as professoras, cadastrar novas, atualizar os dados e deletar o cadastro.
+
+<br>
+
+<br>
+
 
 ## 🛠️ Tecnologias utilizadas nesse projeto
 
@@ -155,7 +161,9 @@ Siga os passos e inclua as informações abaixo:
 
 
 ## ✅ API deve retornar seguinte JSON
+
 <br>
+
 ```
 {
     "message": "Professora cadastrada com sucesso",
@@ -170,10 +178,10 @@ Siga os passos e inclua as informações abaixo:
         "_id": "62e038abe5bd0104dadd7eef",
         "__v": 0
     }
-    ```
+```
+<br>  
 
 
-  <br>  
  ## 🚧 Melhorias para o futuro (Em construção)
 
 * Atualizar os códigos inserindo autorização , autenticaçao e testes.
@@ -184,13 +192,18 @@ Siga os passos e inclua as informações abaixo:
 
 
 <br>
+
+
+
 ## ⚙️ **Funcionalidades/Objetivos**
 
 - Listar todas as professoras cadastradas no sistema;
 - Cadastrar novas professoras;
 - Atualizar os dados pessoais, caso haja  mudança de wathsapp ou localidade.
 - Deletar professora que não consiga continuar com o trabalho voluntario.
+
 <br>
+
 
 
 ## 📚 **Aprendizados**
